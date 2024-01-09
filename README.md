@@ -12,6 +12,8 @@ Some mathematical tutorials and notes relevant to robotics, including but not li
 
 ### Paper Lists
 - [A micro Lie theory for state estimation in robotics](https://arxiv.org/abs/1812.01537)
+- [MCMC using Hamiltonian dynamics](https://arxiv.org/abs/1206.1901)
+- [Geodesic Monte Carlo on Embedded Manifolds](https://arxiv.org/abs/1301.6064)
 - Bayesian Learning via Stochastic Gradient Langevin Dynamics (ICML 2011)
 - Stochastic Gradient Hamiltonian Monte Carlo (ICML 2014)
 - Bayesian Sampling Using Stochastic Gradient Thermostats (NIPS 2014)

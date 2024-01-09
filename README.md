@@ -1,13 +1,11 @@
 ## Mathematics for Robotics
 
-### Tutorials
+### Handbooks
+- Advanced Probability Theory (Renlang Huang)
+
+### Referenced Tutorials
 - Advanced Probability Theory
 - Probability Theory and Examples
 - An Introduction to Stochastic Analysis
 
-
-### Notes
-- Advanced Probability Theory (Renlang Huang)
-
-
-### Papers
+### Paper Lists
